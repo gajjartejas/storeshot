@@ -214,6 +214,24 @@ projects/miui_ads_helper/
 storeshot --config projects/miui_ads_helper/input/config.json --overwrite
 ```
 
+### Visual Output Gallery
+
+#### Before & After Comparison
+
+| Raw Input Screenshot | Generated Store Graphic (1080×1920) |
+|:---:|:---:|
+| <img src="projects/miui_ads_helper/input/1.png" width="300" alt="Raw Input 1" /> | <img src="projects/miui_ads_helper/output/1.png" width="300" alt="Generated Store Graphic 1" /> |
+
+#### Complete 8-Card Result Set
+
+| 1. Ads Setting | 2. Utilities | 3. Carousel Guides | 4. Direct Jump |
+|:---:|:---:|:---:|:---:|
+| <img src="projects/miui_ads_helper/output/1.png" width="220" alt="Screen 1" /> | <img src="projects/miui_ads_helper/output/2.png" width="220" alt="Screen 2" /> | <img src="projects/miui_ads_helper/output/3.png" width="220" alt="Screen 3" /> | <img src="projects/miui_ads_helper/output/4.png" width="220" alt="Screen 4" /> |
+
+| 5. Card UI | 6. Reversible | 7. Multi-Language | 8. Custom Themes |
+|:---:|:---:|:---:|:---:|
+| <img src="projects/miui_ads_helper/output/5.png" width="220" alt="Screen 5" /> | <img src="projects/miui_ads_helper/output/6.png" width="220" alt="Screen 6" /> | <img src="projects/miui_ads_helper/output/7.png" width="220" alt="Screen 7" /> | <img src="projects/miui_ads_helper/output/8.png" width="220" alt="Screen 8" /> |
+
 ---
 
 ## Multi-Project Workspace Organization
