@@ -1,0 +1,1 @@
+"""StoreShot test suite package."""
