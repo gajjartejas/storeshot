@@ -1,0 +1,43 @@
+{
+  "out_width": 1080,
+  "out_height": 1920,
+  "bg_color_1": "#D97706",
+  "bg_color_2": "#78350F",
+  "bg_orientation": "vertical",
+  "pad_top": 330,
+  "pad_bottom": -80,
+  "pad_left": 75,
+  "pad_right": 75,
+  "screenshot_border_radius": 36,
+  "screenshot_border_width": 2,
+  "screenshot_border_color": "#FBBF2480",
+  "shadow_color": "#00000070",
+  "shadow_blur": 44,
+  "shadow_offset_x": 0,
+  "shadow_offset_y": 18,
+  "text_position": "top",
+  "font": "sans",
+  "font_weight": "bold",
+  "text_color": "#FFFFFF",
+  "text_size": 0.033,
+  "text_padding": 60,
+  "text_line_height": 1.15,
+  "line_spacing": 12,
+  "text_bg": "none",
+  "output_dir": "../output",
+  "format": "png",
+  "screenshots": [
+    {
+      "file": "1.png",
+      "text": "Learn Gujarati Fast\nInteractive lessons & rich audio"
+    },
+    {
+      "file": "2.png",
+      "text": "Alphabet & Vocabulary\nMaster vowels, consonants & words"
+    },
+    {
+      "file": "3.png",
+      "text": "Fun Quizzes & Practice\nTrack your progress step-by-step"
+    }
+  ]
+}

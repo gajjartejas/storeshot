@@ -1,0 +1,28 @@
+{
+  "out_width": 1080,
+  "out_height": 1920,
+  "theme": "antigravity",
+  "input_dir": "examples/input",
+  "output_dir": "examples/output",
+  "pad_top": 120,
+  "pad_bottom": 200,
+  "text_position": "bottom",
+  "font": "sans",
+  "font_weight": "bold",
+  "screenshots": [
+    {
+      "file": "1.png",
+      "text": "Sans Bold Headline\nClean modern sans-serif typography",
+      "font": "sans",
+      "font_weight": "bold"
+    },
+    {
+      "file": "2.png",
+      "text": "Elegant Serif Typography\nClassic and sophisticated editorial style",
+      "font": "serif",
+      "font_weight": "bold",
+      "bg_color_1": "#312E81",
+      "bg_color_2": "#1E1B4B"
+    }
+  ]
+}

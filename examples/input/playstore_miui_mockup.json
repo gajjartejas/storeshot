@@ -1,0 +1,63 @@
+{
+  "out_width": 1080,
+  "out_height": 1920,
+  "bg_color_1": "#B91C1C",
+  "bg_color_2": "#7F1D1D",
+  "bg_orientation": "vertical",
+  "pad_top": 320,
+  "pad_bottom": -80,
+  "pad_left": 75,
+  "pad_right": 75,
+  "screenshot_border_radius": 36,
+  "screenshot_border_width": 2,
+  "screenshot_border_color": "#18181B50",
+  "shadow_color": "#00000070",
+  "shadow_blur": 44,
+  "shadow_offset_x": 0,
+  "shadow_offset_y": 18,
+  "text_position": "top",
+  "font": "sans",
+  "font_weight": "bold",
+  "text_color": "#FFFFFF",
+  "text_size": 0.031,
+  "text_padding": 70,
+  "text_line_height": 1.15,
+  "line_spacing": 12,
+  "text_bg": "none",
+  "output_dir": "../output",
+  "format": "png",
+  "screenshots": [
+    {
+      "file": "1.png",
+      "text": "Disable MIUI Ads\nTurn off all system app ads"
+    },
+    {
+      "file": "2.png",
+      "text": "Manage Utilities\nTurn off ads in utility apps"
+    },
+    {
+      "file": "3.png",
+      "text": "Step-by-Step Guides\nDisable lockscreen carousel ads"
+    },
+    {
+      "file": "4.png",
+      "text": "1-Tap Direct Jump\nOpen settings pages instantly"
+    },
+    {
+      "file": "5.png",
+      "text": "Simple Card UI\nClean & user-friendly design"
+    },
+    {
+      "file": "6.png",
+      "text": "Reversible Controls\nEasily restore default settings"
+    },
+    {
+      "file": "7.png",
+      "text": "Multi-Language\nEnglish, Spanish, Hindi & more"
+    },
+    {
+      "file": "8.png",
+      "text": "Custom Appearance\nPersonalize theme & accent colors"
+    }
+  ]
+}

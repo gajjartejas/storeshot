@@ -1,0 +1,26 @@
+{
+  "theme": "antigravity",
+  "out_width": 1080,
+  "out_height": 1920,
+  "pad_left": 40,
+  "pad_right": 40,
+  "pad_top": 120,
+  "pad_bottom": 200,
+  "input_dir": "examples/input",
+  "output_dir": "examples/output",
+  "format": "png",
+  "text_position": "bottom",
+  "text_bg": "none",
+  "screenshots": [
+    {
+      "file": "1.png",
+      "text": "Real-Time Insights\nMonitor metrics and scale effortlessly"
+    },
+    {
+      "file": "2.png",
+      "text": "Team Collaboration\nChat and sync across devices instantly",
+      "bg_color_1": "#1E293B",
+      "bg_color_2": "#0F172A"
+    }
+  ]
+}
